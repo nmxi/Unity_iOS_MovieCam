@@ -1,0 +1,2 @@
+# Unity_iOS_MovieCam
+Unity-iOSで外カメで動画を撮影して，カメラロールに保存するサンプル
