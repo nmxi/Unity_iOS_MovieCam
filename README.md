@@ -1,12 +1,16 @@
 # Unity_iOS_MovieCam
 Unity-iOSで外カメで動画を撮影して，カメラロールに保存する方法の備忘録
 
+<img src="https://raw.githubusercontent.com/nmxi/Unity_iOS_MovieCam/master/Documentation/sample.PNG" width="300px">
 
+XcodeでBuildするときは，権限まわりや，framework周りの設定が必要．以下を参照
+
+https://www.kemomimi.dev/2019/10/11/unityioscaptureandsavecameraroll/
 
 ## Environment
 - macOS Catalina 10.15 beta
 - Unity2019.1.12f1
-- XCode 11.1
+- Xcode 11.1
 - iOS 13.1.2
 
 ## Licence
